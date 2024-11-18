@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repository
 <br>
-Author - Chirag Kumawat
+Author - Chirag kumar kumawat
